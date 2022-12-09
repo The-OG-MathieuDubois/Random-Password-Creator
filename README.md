@@ -9,7 +9,7 @@ This is a Random Password Generator. The user has the choice of what type of cha
 * Javascript 
 
 ## Website
-
+https://github.com/The-OG-MathieuDubois/Random-Password-Creator
 
 This is the opening page. Click generate password to start the prompt and to being chosing the parameters of your random password![Screen Shot 2022-12-08 at 9 55 00 PM (2) lol](https://user-images.githubusercontent.com/117485251/206614989-ab275dca-9358-4d1b-9e1f-87be7f952c8d.png)
 
