@@ -21,4 +21,5 @@ Proceed by filling out the questions prompt and then clicking ok for yes or canc
 
 Then your password is randomly generated and appears in this box. You are able to copy the password! 
 ![Screen Shot 2022-12-08 at 9 55 25 PM (2)](https://user-images.githubusercontent.com/117485251/206615019-b3e7daef-1473-4a03-b2e7-df4e1f89cc97.png)
-
+## License
+MIT License
